@@ -1,0 +1,34 @@
+.container{
+	
+	background-color: yellow;
+	padding: 60px;
+	border: solid;
+
+	
+}
+body {
+	background: url(https://st2.depositphotos.com/2459687/10982/v/950/depositphotos_109820350-stock-illustration-abstract-math-number-background-vector.jpg);
+	
+}
+
+h1{
+	text-align: center;
+	font-size: 60px;
+	font-family: "Times New Roman", Georgia, Serif;
+	color: blue;
+	font-style: normal;
+}
+
+h2{
+	text-align: center;
+	font-family: "Times New Roman", Georgia, Serif;
+}
+
+
+p{
+	text-align: left;
+	font-family: "Times New Roman", Georgia, Serif;
+	color: blue;
+	font-style: normal;
+	font-size: 20px;
+}
